@@ -1,0 +1,643 @@
+@media only screen and (max-width: 767px) {
+    .pb-100 {
+        padding-bottom: 50px;
+    }
+    .ptb-100 {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .ptb-100-70 {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+	.shape {
+        display: none;
+    }
+    .default-btn {
+        padding: 6px 13px;
+        font-size: 14px;
+    }
+    .default-btn-2 {
+        padding: 6px 13px;
+        font-size: 14px;
+    }
+    .about-area  {
+        .about-content-wrap {
+            h2 {
+                font-size: 26px;
+                margin-bottom: 20px;
+            }
+            span {
+                font-size: 12px;
+            }
+            ul {
+                li {
+                    font-size: 14px;
+                    padding-left: 35px;
+                    i {
+                        font-size: 13px;
+                        width: 25px;
+                        height: 25px;
+                        line-height: 25px;
+                        top: 0;
+                    }
+                }
+            }
+        }
+        .about-img {
+            margin-top: 30px;
+        }
+    }
+    .section-title  {
+        margin-bottom: 30px;
+        span {
+            font-size: 12px;
+            margin-bottom: 0;
+        }
+        h2 {
+            font-size: 26px;
+        }
+    }
+    .single-practice  {
+        padding-left: 70px;
+        padding-right: 0;
+        i {
+            font-size: 30px;
+            line-height: 60px;
+            width: 60px;
+            height: 60px;
+        }
+        h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+    }
+    .testimonials-wrap {
+        padding: 50px 0 50px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .consultation-form {
+        padding: 20px;
+    }
+    .consultation-area {
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .consultation-content{
+        span {
+            margin-bottom: 30px;
+        }
+        img {
+            margin-bottom: 30px;
+            width: 100% !important;
+        }
+    }
+    .single-blog {
+        .blig-content {
+            padding: 20px;
+            h3 {
+                a {
+                    font-size: 18px;
+                }
+            }
+            ul {
+                li {
+                    font-size: 13px;
+                    i {
+                        font-size: 13px;
+                    }
+                }
+            }
+        }
+    }
+    .footer-top-area {
+        padding: 16px 0 16px;
+    }
+    .single-widget {
+        &.single-widgets {
+            margin-left: 0;
+        }
+        &.single-widgetss {
+            margin-left: 0;
+        }
+    }
+    .footer-bottom{
+        p {
+            text-align: center;
+        }
+    }
+    .single-work {
+        i {
+            display: none;
+        }
+    }
+    .lovells-slider-2 {
+        height: 600px !important;
+        .slider-img {
+            max-width: 250px;
+            text-align: center;
+            margin: 0 auto 0;
+        }
+        .slider-text {
+            margin-top: 100px;
+        }
+    }
+    .about-area {
+        .about-content-wrap {
+            margin-right: 0;
+        }
+        .about-img {
+           
+        }
+    }
+    .single-work {
+        h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        h4 {
+            line-height: 32px;
+            margin-bottom: 25px;
+            &::before {
+                width: 40px;
+                height: 40px;
+            }
+            &::after {
+                width: 40px;
+                height: 40px;
+            }
+        }
+    }
+    .about-rm {
+        img {
+            margin-bottom: 0 !important;
+        }
+    }
+    .abouts-rm {
+        img {
+            margin-bottom: 10px !important;
+        }
+    }
+    .mission-title {
+        h2 {
+            line-height: 1;
+        }
+    }
+    .map-area {
+        margin-bottom: 30px;
+    }
+    .coming-soon-content {
+        max-width: 100%;
+        h1 {
+            font-size: 40px;
+            line-height: 1.1;
+        }
+        p {
+            font-size: 13px;
+            margin-top: 15px;
+        }
+        #timer {
+            margin-top: 20px;
+            div {
+                font-size: 40px;
+                margin-left: 8px;
+                margin-right: 8px;
+                span {
+                    font-size: 14px;
+                    margin-top: -5px;
+                }
+                &::before {
+                    display: none;
+                }
+            }
+        }
+        .newsletter-form {
+            margin-top: 35px;
+            .input-newsletter {
+                height: 55px;
+                padding-left: 13px;
+                font-size: 15px;
+            }
+            button {
+                position: relative;
+                height: auto;
+                padding: 14px 30px;
+                font-size: 14px;
+                margin-top: 15px;
+            }
+        }
+    }
+    .pt-mines-100 {
+        padding-top: 50px !important;
+    }
+
+    .single-testimonial {
+        p {
+            padding: 0 15px;
+            width: 100%;
+        }
+    }
+    .single-practice-gallery {
+        img {
+            width: 100%;
+        }
+    }
+    .consultation-content {
+        text-align: center;
+        .contact-img {
+            text-align: center;
+            display: block;
+            margin: 0 auto 30px;
+        }
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .pb-100 {
+        padding-bottom: 70px;
+    }
+    .ptb-100 {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+    .ptb-100-70 {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+	.shape {
+        display: none;
+    }
+    .default-btn {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+    .default-btn-2 {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+    .about-area  {
+        .about-content-wrap {
+            h2 {
+                font-size: 30px;
+            }
+            span {
+                font-size: 12px;
+            }
+            ul {
+                li {
+                    font-size: 14px;
+                    padding-left: 35px;
+                    i {
+                        font-size: 13px;
+                        width: 25px;
+                        height: 25px;
+                        line-height: 25px;
+                        top: 0;
+                    }
+                }
+            }
+        }
+        .about-img {
+            margin-top: 30px;
+            img {
+                width: 100%;
+            }
+        }
+    }
+    .section-title  {
+        margin-bottom: 40px;
+        span {
+            font-size: 12px;
+            margin-bottom: 0;
+        }
+        h2 {
+            font-size: 30px;
+        }
+    }
+    .single-practice  {
+        padding-left: 70px;
+        padding-right: 0;
+        i {
+            font-size: 30px;
+            line-height: 60px;
+            width: 60px;
+            height: 60px;
+        }
+        h3 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+    }
+    .testimonials-wrap {
+        padding: 70px 0 70px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .consultation-form {
+        padding: 30px;
+    }
+    .consultation-area {
+        padding-bottom: 70px;
+    }
+    .consultation-content{
+        span {
+            margin-bottom: 30px;
+        }
+        img {
+            margin-bottom: 30px;
+            width: 100% !important;
+        }
+    }
+    .single-blog {
+        .blig-content {
+            padding: 20px;
+            h3 {
+                a {
+                    font-size: 20px;
+                }
+            }
+            ul {
+                li {
+                    font-size: 13px;
+                    i {
+                        font-size: 13px;
+                    }
+                }
+            }
+        }
+    }
+    
+    .footer-top-area {
+        padding: 36px 0 36px;
+    }
+    .single-widget {
+        &.single-widgets {
+            margin-left: 0;
+        }
+        &.single-widgetss {
+            margin-left: 0;
+        }
+    }
+    .single-work {
+        i {
+            display: none;
+        }
+    }
+    .lovells-slider-2 {
+        height: 600px !important;
+        .slider-img {
+            max-width: 250px;
+            text-align: center;
+            margin: 0 auto 0;
+        }
+        .slider-text {
+            margin-top: 100px !important;
+        }
+    }
+    .about-area {
+        .about-content-wrap {
+            margin-right: 0;
+        }
+        .about-img {
+        }
+    }
+    .single-work {
+        h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        h4 {
+            line-height: 32px;
+            margin-bottom: 25px;
+            &::before {
+                width: 40px;
+                height: 40px;
+            }
+            &::after {
+                width: 40px;
+                height: 40px;
+            }
+        }
+    }
+    .about-rm {
+        img {
+            margin-bottom: 0 !important;
+        }
+    }
+    .abouts-rm {
+        img {
+            margin-bottom: 10px !important;
+        }
+    }
+    .mission-title {
+        h2 {
+            line-height: 1;
+        }
+    }
+    .map-area {
+        margin-bottom: 40px;
+    }
+    .pt-mines-100 {
+        padding-top: 70px !important;
+    }
+
+    .consultation-content {
+        text-align: center;
+        .contact-img {
+            text-align: center;
+            display: block;
+            margin: 0 auto 30px;
+        }
+    }
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1199px) { 
+	.shape {
+        display: none;
+    }
+    .default-btn {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+    .default-btn-2 {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+    .about-area  {
+        .about-content-wrap {
+            h2 {
+                font-size: 30px;
+            }
+            span {
+                font-size: 12px;
+            }
+            ul {
+                li {
+                    font-size: 14px;
+                    padding-left: 35px;
+                    i {
+                        font-size: 13px;
+                        width: 25px;
+                        height: 25px;
+                        line-height: 25px;
+                        top: 0;
+                    }
+                }
+            }
+        }
+        .about-img {
+            margin-top: 30px;
+            img {
+                width: 100%;
+            }
+        }
+    }
+    .section-title  {
+        margin-bottom: 40px;
+        span {
+            font-size: 12px;
+            margin-bottom: 0;
+        }
+        h2 {
+            font-size: 30px;
+        }
+    }
+    .single-practice  {
+        padding-left: 70px;
+        padding-right: 0;
+        i {
+            font-size: 30px;
+            line-height: 60px;
+            width: 60px;
+            height: 60px;
+        }
+        h3 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+    }
+  
+    p {
+        font-size: 14px;
+    }
+    .consultation-form {
+        padding: 30px;
+    }
+    .consultation-content{
+        span {
+            margin-bottom: 30px;
+        }
+        img {
+            margin-bottom: 30px;
+        }
+    }
+    .single-blog {
+        .blig-content {
+            padding: 20px;
+            h3 {
+                a {
+                    font-size: 20px;
+                }
+            }
+            ul {
+                li {
+                    font-size: 13px;
+                    i {
+                        font-size: 13px;
+                    }
+                }
+            }
+        }
+    }
+    .single-widget {
+        &.single-widgets {
+            margin-left: 22px;
+        }
+        &.single-widgetss {
+            margin-left: 50px;
+        }
+    }
+    .single-work {
+        i {
+            display: none;
+        }
+    }
+    .lovells-slider-2 {
+        .slider-text {
+            text-align: left !important;
+            margin-left: 100px !important;
+        }
+    }
+    .about-area {
+        .about-content-wrap {
+            margin-right: 0;
+        }
+        .about-img {
+        
+        }
+    }
+    .single-work {
+        h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        h4 {
+            line-height: 32px;
+            margin-bottom: 25px;
+            &::before {
+                width: 40px;
+                height: 40px;
+            }
+            &::after {
+                width: 40px;
+                height: 40px;
+            }
+        }
+    }
+    
+    .navbar-brand {
+        img {
+            width: 125px !important;
+        }
+    }
+    .single-work {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media only screen and (min-width: 1824px) {
+    .practice-area {
+        .right-shape {
+            top: 85px;
+            right: 100px;
+            width: auto;
+        }
+    }
+    .slider-img {
+        img {
+            margin-top: 100px;
+        }
+    }
+}
+
+/*
+Continuer Custom Width Area Style*/
+@media only screen and (min-width: 1300px) {
+
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1320px;
+        width: 100%;
+    }
+
+}
+
+/* only for menu */
+@media only screen and (max-width: 991px) {
+    .others-option {
+        display: none;
+    }
+}
